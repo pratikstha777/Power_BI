@@ -16,7 +16,7 @@ An executive-level demographic and occupational analysis mapping out insights fr
 * **Industry Accessibility:** Donut chart breakdown quantifying perceived difficulty tiers for entering the data industry field.
 
 #### 📈 Survey Dashboard Preview
-![Data Professional Survey Dashboard]("Survey_Dashboard.png")
+![Data Professional Survey Dashboard](Survey_Dashboard.png)
 
 ---
 
