@@ -16,7 +16,7 @@ An executive-level demographic and occupational analysis mapping out insights fr
 * **Industry Accessibility:** Donut chart breakdown quantifying perceived difficulty tiers for entering the data industry field.
 
 #### 📈 Survey Dashboard Preview
-![Data Professional Survey Dashboard]("Survey Dashboard.png")
+![Data Professional Survey Dashboard]("Survey_Dashboard.png")
 
 ---
 
@@ -28,7 +28,7 @@ A operational reporting view built to evaluate transaction highpoints, customer 
 * **Temporal Patterns:** Bar chart aggregations tracking product volumes shifting daily across a 31-day cycle, paired with a specialized Day-of-the-Week breakdown (Days 1–7) showing peak periods.
 
 #### 📈 Sales Dashboard Preview
-![Sales Performance Dashboard](dashboard_sales.png)
+![Sales Performance Dashboard](Dax_Dashboard.png)
 
 ---
 
